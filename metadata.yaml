@@ -1,0 +1,51 @@
+_repo: Hamlet--Drama-em-cinco-Actos_25667
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Luís I, Rei de Portugal
+    aliases:
+    - Luís I, King of Portugal
+    - Luis I, Rei de Portugal
+    birthdate: 1838
+    deathdate: 1889
+    gutenberg_agent_id: '31496'
+    url: http://www.gutenberg.org/2009/agents/31496
+    wikipedia: http://pt.wikipedia.org/wiki/Lu%C3%ADs_I_de_Portugal
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_bookshelf:
+- PT Teatro
+- Best Books Ever Listings
+gutenberg_issued: '2008-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25667'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princes -- Drama'
+- !lcc 'PR'
+- !lcsh 'Murder victims'' families -- Drama'
+- !lcsh 'Fathers -- Death -- Drama'
+- !lcsh 'Revenge -- Drama'
+- !lcsh 'Hamlet (Legendary character) -- Drama'
+- !lcsh 'Denmark -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Kings and rulers -- Succession -- Drama'
+title: 'Hamlet: Drama em cinco Actos'
+url: http://www.gutenberg.org/ebooks/25667
